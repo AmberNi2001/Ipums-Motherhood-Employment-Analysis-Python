@@ -24,12 +24,12 @@ If you'd like to **run the analysis** on your own laptop, follow these steps:
    - Adjust the file path in `pd.read_stata()` if your Drive structure is different, e.g.: `df = pd.read_stata('/content/drive/My Drive/your_folder/cps_00002.dta')`
 5. Run the notebook cells sequentially to perform data cleaning, analysis, and generate visualizations.
 
-If you're only **interested in viewing the code and report**: Simply download or browse all the documents in this repository.
+If you're only **interested in viewing the codes and report**: Simply download or browse all the documents in this repository.
 
 This workflow allows you to reproduce all analyses and figures included in the project report.
 
 ## Research Question
-Do mothers, particularly those with younger children, work fewer hours or have lower employment rates compared to women without children in the U.S.?
+Do mothers, particularly those with younger children, work have lower employment rates compared to women without children in the U.S.?
 
 ## Data Source
 
@@ -67,7 +67,7 @@ Key variables used in this analysis:
    - Perform logistic regression model to explore relationships between variable of interest and dependent variable.
    - Interpret coefficients and statistical significance.
 9. **Report Writing** 
-   - Export visualizations and write report on typora.
+   - Export visualizations and write report in Typora.
      
 ## Main Results
 
