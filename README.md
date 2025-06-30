@@ -3,7 +3,7 @@
 | **Date**: 04-30-2025 | **Course**: Jobs, Workers, Development
 
 ## Project Description
-This project analyzes IPUMS USA data from 2023，with selected variables related to employment status, demographic indicators and the presence of young children. It primarily focuses on identifying **key trends in the employment status of women with young children under age 5 across different demographic groups**, and examines **the correlation between having young children and employment outcomes**. Conducted in **Python**, the project involves data cleaning, variable selection, and both descriptive and regression analyses to explore relationships between these variables and their potential correlates. 
+This project analyzes IPUMS USA data from 2023, with selected variables related to employment status, demographic indicators and the presence of young children. It primarily focuses on identifying **key trends in the employment status of women with young children under age 5 across different demographic groups**, and examines **the correlation between having young children and employment outcomes**. Conducted in **Python**, the project involves data cleaning, variable selection, and both descriptive and regression analyses to explore relationships between these variables and their potential correlates. 
 
 The repository **includes**: 
 - raw dataset
